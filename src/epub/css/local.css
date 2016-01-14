@@ -55,10 +55,3 @@ b{
 [epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
-
-/* helpful during drafting */
-[epub|type~="z3998:roman"],
-[lang]:not(html),
-abbr{
-	background: #C0C0C0;
-}

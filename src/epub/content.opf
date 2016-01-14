@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves</dc:identifier>
 		<dc:date>2016-01-05T22:17:49Z</dc:date>
-		<meta property="dcterms:modified">2016-01-05T22:18:21Z</meta>
+		<meta property="dcterms:modified">2016-01-14T22:22:14Z</meta>
 		<dc:rights>Public domain; see the Unlicense included with this file.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,16 +32,17 @@
 		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/10554</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is the second novel to feature P. G. Wodehouse&amp;rsquo;s popular Bertie Wooster and Jeeves characters.  Bertie, a member of the English upper class and one of the &amp;ldquo;idle rich,&amp;rdquo; tries his best to arrange relationships between two pairs of his friends.  Though he means well, Bertie&amp;rsquo;s bumbling attempts wind up doing more harm than good (as usual), leaving it to his valet, Jeeves, to see if he can sort things out.&lt;/p&gt;
+			&lt;p&gt;A smooth, easy, and often hilarious read, &lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is an excellent example of why Bertie Wooster and Jeeves have become such iconic literary figures.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/10554</dc:source>
 		<dc:source>https://archive.org/details/RightHoJeeves</dc:source>
-		<meta property="se:word-count">75439</meta>
+		<meta property="se:word-count">75441</meta>
 		<meta property="se:reading-ease.flesch">83.36</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Right_Ho,_Jeeves</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_right-ho-jeeves</meta>

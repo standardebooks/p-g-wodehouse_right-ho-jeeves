@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves</dc:identifier>
 		<dc:date>2016-01-05T22:17:49Z</dc:date>
-		<meta property="dcterms:modified">2016-01-16T23:34:15Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:42:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -24,12 +24,12 @@
 		<dc:subject id="subject-4">Jeeves (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Single men -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Valets -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/10554</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/10554</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/10554</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/10554</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/10554</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/10554</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/10554</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/10554</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/10554</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/10554</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/10554</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/10554</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.</dc:description>
@@ -40,7 +40,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/10554</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/10554</dc:source>
 		<dc:source>https://archive.org/details/RightHoJeeves</dc:source>
 		<meta property="se:word-count">75441</meta>
 		<meta property="se:reading-ease.flesch">83.36</meta>

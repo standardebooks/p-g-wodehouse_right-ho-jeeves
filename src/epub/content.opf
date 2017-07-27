@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves</dc:identifier>
 		<dc:date>2016-01-05T22:17:49Z</dc:date>
-		<meta property="dcterms:modified">2017-07-22T01:11:02Z</meta>
-		<meta property="se:revision-number">28</meta>
+		<meta property="dcterms:modified">2017-07-27T20:48:48Z</meta>
+		<meta property="se:revision-number">29</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,7 +36,7 @@
 		<dc:description id="description">Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is the second novel to feature P. G. Wodehouse’s popular Bertie Wooster and Jeeves characters.  Bertie, a member of the English upper class and one of the “idle rich,” tries his best to arrange relationships between two pairs of his friends.  Though he means well, Bertie’s bumbling attempts wind up doing more harm than good (as usual), leaving it to his valet, Jeeves, to see if he can sort things out.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is the second novel to feature P. G. Wodehouse’s popular Bertie Wooster and Jeeves characters. Bertie, a member of the English upper class and one of the “idle rich,” tries his best to arrange relationships between two pairs of his friends. Though he means well, Bertie’s bumbling attempts wind up doing more harm than good (as usual), leaving it to his valet, Jeeves, to see if he can sort things out.&lt;/p&gt;
 			&lt;p&gt;A smooth, easy, and often hilarious read, &lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is an excellent example of why Bertie Wooster and Jeeves have become such iconic literary figures.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>

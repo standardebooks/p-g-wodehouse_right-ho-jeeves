@@ -8,17 +8,12 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 [epub|type~="z3998:letter"]{
 	font-style: italic;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: left;
 }
 
 [epub|type~="z3998:letter"] header p + p{

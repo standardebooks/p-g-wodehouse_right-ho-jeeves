@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10554</dc:source>
 		<dc:source>https://archive.org/details/RightHoJeeves</dc:source>
-		<meta property="se:word-count">75462</meta>
+		<meta property="se:word-count">75459</meta>
 		<meta property="se:reading-ease.flesch">83.36</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Right_Ho,_Jeeves</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_right-ho-jeeves</meta>

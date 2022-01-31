@@ -13,8 +13,8 @@ section[epub|type~="dedication"] p{
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: initial;
 	margin-bottom: 1em;
+	text-align: initial;
 }
 
 [epub|type~="z3998:letter"] header p + p + p{

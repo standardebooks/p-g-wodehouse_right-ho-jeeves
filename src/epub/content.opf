@@ -50,7 +50,7 @@
 		<meta property="term" refines="#subject-6">sh2008113161</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.</dc:abstract>
+		<meta property="schema:abstract">Bertie Wooster and his valet Jeeves try their hand at matchmaking in upper-class England.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is the second novel to feature &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;&lt;abbr&gt;P. G.&lt;/abbr&gt; Wodehouse’s&lt;/a&gt; popular Bertie Wooster and Jeeves characters. Bertie, a member of the English upper class and one of the “idle rich,” tries his best to arrange relationships between two pairs of his friends. Though he means well, Bertie’s bumbling attempts wind up doing more harm than good (as usual), leaving it to his valet, Jeeves, to see if he can sort things out.&lt;/p&gt;
 			&lt;p&gt;A smooth, easy, and often hilarious read, &lt;i&gt;Right Ho, Jeeves&lt;/i&gt; is an excellent example of why Bertie Wooster and Jeeves have become such iconic literary figures.&lt;/p&gt;

@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10554</dc:source>
 		<dc:source>https://archive.org/details/RightHoJeeves</dc:source>
-		<meta property="schema:wordCount">74071</meta>
+		<meta property="schema:wordCount">74068</meta>
 		<meta property="schema:educationalLevel">83.36</meta>
 		<link href="https://en.wikipedia.org/wiki/Right_Ho,_Jeeves" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
